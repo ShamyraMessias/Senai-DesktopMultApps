@@ -7,9 +7,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "clients", "clients", "{2D52
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "server", "server", "{65AD42B9-3A5F-4F48-A71A-666F1EAD4C6E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultApps.Client.Windows", "clients\MultApps.Client.Windows\MultApps.Client.Windows.csproj", "{14EB6CB9-9DF7-4FB3-AD35-14A07B6DC44B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MultApps.Client.Windows", "clients\MultApps.Client.Windows\MultApps.Client.Windows.csproj", "{14EB6CB9-9DF7-4FB3-AD35-14A07B6DC44B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultApps.Server.Core.", "server\MultApps.Server.Core\MultApps.Server.Core..csproj", "{54725CB6-5A6E-4325-AC2C-D6022CAAEBFA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MultApps.Server.Core.", "server\MultApps.Server.Core\MultApps.Server.Core..csproj", "{54725CB6-5A6E-4325-AC2C-D6022CAAEBFA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NewFolder1", "NewFolder1", "{2555D4D9-95DE-4DA0-90E2-CDE6A68B5842}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -32,6 +34,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{14EB6CB9-9DF7-4FB3-AD35-14A07B6DC44B} = {2D526883-274E-48C5-8894-C7EBA41A2EF8}
 		{54725CB6-5A6E-4325-AC2C-D6022CAAEBFA} = {65AD42B9-3A5F-4F48-A71A-666F1EAD4C6E}
+		{2555D4D9-95DE-4DA0-90E2-CDE6A68B5842} = {2D526883-274E-48C5-8894-C7EBA41A2EF8}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {74FA3750-3A7C-4D6C-9182-5AFB89CE591D}

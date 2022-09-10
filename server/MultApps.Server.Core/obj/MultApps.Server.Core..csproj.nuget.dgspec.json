@@ -1,25 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "C:\\shamyra-workspace\\repos\\mutApps\\server\\MultApps.Server.Core\\MultApps.Server.Core..csproj": {}
+    "C:\\Shamyra-Workspace\\repos\\Senai-DesktopMultApps\\server\\MultApps.Server.Core\\MultApps.Server.Core..csproj": {}
   },
   "projects": {
-    "C:\\shamyra-workspace\\repos\\mutApps\\server\\MultApps.Server.Core\\MultApps.Server.Core..csproj": {
+    "C:\\Shamyra-Workspace\\repos\\Senai-DesktopMultApps\\server\\MultApps.Server.Core\\MultApps.Server.Core..csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\shamyra-workspace\\repos\\mutApps\\server\\MultApps.Server.Core\\MultApps.Server.Core..csproj",
+        "projectUniqueName": "C:\\Shamyra-Workspace\\repos\\Senai-DesktopMultApps\\server\\MultApps.Server.Core\\MultApps.Server.Core..csproj",
         "projectName": "MultApps.Server.Core.",
-        "projectPath": "C:\\shamyra-workspace\\repos\\mutApps\\server\\MultApps.Server.Core\\MultApps.Server.Core..csproj",
-        "packagesPath": "C:\\Users\\usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\shamyra-workspace\\repos\\mutApps\\server\\MultApps.Server.Core\\obj\\",
+        "projectPath": "C:\\Shamyra-Workspace\\repos\\Senai-DesktopMultApps\\server\\MultApps.Server.Core\\MultApps.Server.Core..csproj",
+        "packagesPath": "C:\\Users\\Aluno\\.nuget\\packages\\",
+        "outputPath": "C:\\Shamyra-Workspace\\repos\\Senai-DesktopMultApps\\server\\MultApps.Server.Core\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\Aluno\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
